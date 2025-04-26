@@ -1,5 +1,5 @@
 <template>
-  <Header title="cl图床" desc="拒绝流量劫持，全面使用HTTPS" />
+  <Header title="CL图床" desc="拒绝流量劫持，全面使用HTTPS" />
   <main><RouterView /></main>
   <Footer />
   <Toaster />
